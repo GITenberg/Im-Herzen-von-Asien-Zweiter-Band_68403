@@ -1,0 +1,38 @@
+_repo: Im-Herzen-von-Asien-Zweiter-Band_68403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hedin, Sven Anders
+    aliases:
+    - Gedin, Sven
+    - Khedin, Sven Anders
+    birthdate: 1865
+    deathdate: 1952
+    gutenberg_agent_id: '9475'
+    url: http://www.gutenberg.org/2009/agents/9475
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Sven_Hedin
+    - https://fi.wikipedia.org/wiki/Sven_Hedin
+description: ''
+gutenberg_issued: '2022-06-25'
+identifiers:
+  gutenberg: '68403'
+language: de
+pgterms:marc904: https://archive.org/details/imherzenvonasie02hedi/page/n7/mode/2up
+pgterms:marc905: 20170422022229hedin
+pgterms:marc906: '1919'
+pgterms:marc907: de
+production_note: Peter Becker, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: Germany :F. A. Brockhaus,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Tibet Autonomous Region (China) -- Description and travel'
+- !lcsh 'Asia, Central -- Description and travel'
+- GITenberg
+title: Im Herzen von Asien. Zweiter Band.
+url: http://www.gutenberg.org/ebooks/68403
